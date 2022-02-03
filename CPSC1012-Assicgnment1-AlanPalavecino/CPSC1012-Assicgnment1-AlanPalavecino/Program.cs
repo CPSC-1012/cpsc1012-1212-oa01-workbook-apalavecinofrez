@@ -64,21 +64,21 @@
  * 
  * 
  * Test Plan:
- *      Test Case       Test Data               Expected Results        Passed
- *      ---------       ---------               ----------------        ------
- *      name test       name = Alan Frez        Customer: Alan Frez     yes
+ *      Test Case           Test Data                   Expected Results        Passed
+ *      ---------           ---------                   ----------------        ------
+ *      name test           name = Alan Frez            Customer: Alan Frez     yes
  *      
- *      brand choice    choice = a              Brand: Trek             yes
- *                      choice = b              Brand: Giant            yes
- *                      choice = c              Brand: Specialized      yes
- *                      chioce = d              Brand: Raleigh          yes
- 
- *      Tire size       size = 20               tire price: 350.00
+ *      brand test          choice = a                  Brand: Trek             yes
  *      
- *      metal choice    metalChoice = 1         metal Price: 0.00
+ *                          choice = c                  Brand: Specialized      yes
+ *                      
+ *                      
+ *      Tire size test      size = 20                   tire price: 350.00      yes
  *      
- *      donation        donation = y
- *                      donationAmount = 22.58  donation: 22.58
+ *      metal test          metalChoice = 1             metal Price: 0.00       yes
+ *      
+ *      donation test       donation = y                dontaion: 22.58         yes
+ *                          donationAmount = 22.58  
  *      
  * 
  * 
